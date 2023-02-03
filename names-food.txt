@@ -1,0 +1,4 @@
+(FOOD)
+Rice
+Beans
+yam
