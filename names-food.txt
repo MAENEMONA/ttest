@@ -2,3 +2,8 @@
 Rice
 Beans
 yam
+
+(DRINKS)
+Fanta
+coke
+
